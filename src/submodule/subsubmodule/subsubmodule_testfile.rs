@@ -1,0 +1,1 @@
+pub const OTHER_VALUE: i32 = 45;
